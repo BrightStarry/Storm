@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Storm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Storm_jar</output-path>
+    <root id="archive" name="Storm.jar">
+      <element id="module-output" name="Storm" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
